@@ -1,7 +1,7 @@
 
 # Project Title
 
-CombineNetworkmanager is an API Manager created using Combine Framework
+Networkmanager is an API Manager created using Callbacks
 
 
 
